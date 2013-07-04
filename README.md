@@ -1,6 +1,8 @@
 Pingpong
 ============
 
+https://rubygems.org/gems/pingpong
+
 A simple gem to ping computers
 
 Example
