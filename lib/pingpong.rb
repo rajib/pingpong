@@ -1,4 +1,4 @@
-class Ringpong
+class Pingpong
   def initialize(host, pingcount=10)
     @host = host
     @pingcount = pingcount
